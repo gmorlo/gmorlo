@@ -1,6 +1,6 @@
 ## Hi there, I'm Gabriel 👋
 
-###Global Virtual Infrastructure & Lab Operations Specialist at Intel | Part-time Computer Science Student
+### Global Virtual Infrastructure & Lab Operations Specialist at Intel | Part-time Computer Science Student
 
 - 💻 Specializing in Python and software development, continuously honing my skills.
 - 🎨 Passionate about computer graphics and exploring creative projects as a hobbyist artist.
