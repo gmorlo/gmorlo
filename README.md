@@ -1,11 +1,22 @@
 ## Hi there, I'm Gabriel 👋
 
-### Global Virtual Infrastructure & Lab Operations Specialist at Intel | Part-time Computer Science Student
+📌 **Aspiring Machine Learning Engineer & Data Scientist**  
+🎓 Currently studying Artificial Intelligence at PJATK  
+💼 Working full-time as a Contracting Worker (CW) at **Intel**
 
-- 💻 Specializing in Python and software development, continuously honing my skills.
-- 🎨 Passionate about computer graphics and exploring creative projects as a hobbyist artist.
-- 🚀 Always eager to learn and dive into new technologies to solve complex problems.
-- 📚 Currently pursuing a degree in Computer Science at the Polish-Japanese Academy of Computer Technologies (PJATK).
+
+---
+
+💡 **Skills & Interests:**
+- Python programming
+- Data analysis & automation
+- Machine Learning & AI tools
+- Solving real-world problems with data
+- Continuous learning & growth
+
+---
+
+
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/gabriel-francke-72259428a/)
 
