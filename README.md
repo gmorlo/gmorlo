@@ -1,9 +1,9 @@
 ## Hi there, I'm Gabriel 👋
 
 
-📌 **Aspiring Machine Learning Engineer & Data Scientist**  
-🎓 Currently studying Artificial Intelligence at PJATK (Polish-Japanese Academy of Information Technology)
-💼 Working full-time as Lab Connectivity & Virtual Infrastructure Support (CW) at **Intel**
+- 📌 **Aspiring Machine Learning Engineer & Data Scientist**  
+- 🎓 Currently studying Artificial Intelligence at PJATK (Polish-Japanese Academy of Information Technology)
+- 💼 Working full-time as Lab Connectivity & Virtual Infrastructure Support (CW) at **Intel**
 
 
 ---
