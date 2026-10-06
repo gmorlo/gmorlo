@@ -2,7 +2,7 @@
 
 - 📌 **Aspiring Machine Learning Engineer & Data Scientist**  
 - 🎓 Currently studying Artificial Intelligence at PJATK (Polish-Japanese Academy of Information Technology)
-- 💼 Working full-time as RPA Specialist Assistant — Python @ Hiab Poland
+- 💼 Working full-time as Automation Specialist @ Hiab Poland
 
 ---
 
