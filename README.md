@@ -1,19 +1,21 @@
-## Hi there, I'm Gabriel 👋
+## Hi there, I'm Gabriel
 
-- 📌 **Aspiring Machine Learning Engineer & Data Scientist**  
-- 🎓 Currently studying Artificial Intelligence at PJATK (Polish-Japanese Academy of Information Technology)
-- 💼 Working full-time as Automation Specialist @ Hiab Poland
+- 💼 Automation Specialist @ Hiab Poland — Developing automation solutions, integrating systems, and optimizing business processes
+- 🎓 Computer Science Graduate (B.Eng.) — PJATK (Polish-Japanese Academy of Information Technology), specializing in Artificial Intelligence
 
 ---
 
 💡 **Skills & Interests:**
-- Python programming
-- Data scientist and automation
-- Machine Learning (PyTorch, TensorFlow, scikit-learn)  
-- Solving real-world problems with data
+- Python programming & software development
+- Business process automation & system integration
+- Machine Learning (PyTorch, TensorFlow, scikit-learn)
+- Data Science & Data Analysis (pandas, NumPy)
+- Artificial Intelligence (NLP, LLMs, Transformers)
+- Cloud (GCP, Containers)
+- Building practical solutions through automation and AI
 
 ---
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/gabriel-francke-72259428a/)
 
-Let's connect and collaborate on exciting projects!
+Interested in collaborating or discussing new ideas? Feel free to reach out
