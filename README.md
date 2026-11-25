@@ -71,11 +71,13 @@ B.Eng. in Computer Science (PJATK), AI specialization.
     </td>
   </tr>
   <tr>
-    <td align="right"><b>Data Science</b></td>
+    <td align="right"><b>Data</b></td>
     <td align="left">
       <img src="badges/pandas.svg" alt="pandas" height="20">
       <img src="badges/numpy.svg" alt="NumPy" height="20">
       <img src="badges/matplotlib.svg" alt="Matplotlib" height="20">
+      <img src="badges/snowflake.svg" alt="Snowflake" height="20">
+      <img src="badges/oracle.svg" alt="Oracle" height="20">
     </td>
   </tr>
   <tr>
@@ -111,10 +113,11 @@ B.Eng. in Computer Science (PJATK), AI specialization.
     <td align="right"><b>Cloud & tooling</b></td>
     <td align="left">
       <img src="badges/gcp.svg" alt="GCP" height="20">
+      <img src="badges/aws.svg" alt="AWS" height="20">
+      <img src="badges/cloudflare.svg" alt="Cloudflare" height="20">
       <img src="badges/docker.svg" alt="Docker" height="20">
       <img src="badges/github-actions.svg" alt="GitHub Actions" height="20">
       <img src="badges/pytest.svg" alt="pytest" height="20">
-      <img src="badges/cloudflare-r2.svg" alt="Cloudflare R2" height="20">
     </td>
   </tr>
   <tr>
